@@ -108,4 +108,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+#mac things not to copy.
+
+.ini
+.json
+
 # End of https://www.gitignore.io/api/macos
