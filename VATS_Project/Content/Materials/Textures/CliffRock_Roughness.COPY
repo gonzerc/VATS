@@ -1,0 +1,15 @@
+Begin Object Class=/Script/Engine.Texture2D Name="CliffRock_Roughness"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   ImportedSize=(X=1024,Y=1024)
+   Source=(Id=CD1702B44A03393DB10CE18CC2EE4FA0,SizeX=1024,SizeY=1024,NumSlices=1,NumMips=1,bPNGCompressed=True,Format=TSF_G8)
+   LightingGuid=474F6DDB464D3D1D77B8FFACDF6D5E53
+   AssetImportData=AssetImportData'"AssetImportData"'
+   AdjustBrightness=0.893916
+   AdjustBrightnessCurve=2.337301
+   AlphaCoverageThresholds=(X=0.000000,Y=0.000000,Z=0.000000,W=1.000000)
+   CompressionSettings=TC_Grayscale
+   SRGB=False
+End Object
